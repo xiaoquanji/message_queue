@@ -1,6 +1,6 @@
 <?php
 
-namespace Jenner\Zebra\MessageQueue;
+namespace Xiaoquanji\Zebra\MessageQueue;
 
 class Test
 {
